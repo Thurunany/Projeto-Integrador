@@ -1,2 +1,2 @@
 # Projeto-Integrador 
- BETA version of school final project, It was used to practice firebase, html, css and JS. 
+ BETA version of school final project, created to practice google firebase, html, css and JS. 
